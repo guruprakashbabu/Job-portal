@@ -48,4 +48,4 @@ This is an online job portal developed using **Java Servlets**, **MySQL**, and *
 ### Steps to Install:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/job-portal.git
+   git clone https://github.com/guruprakashbabu/job-portal.git
